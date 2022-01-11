@@ -7,7 +7,7 @@ export const MiniNavbar = () => {
             <p>abc@gmail.com</p>
           </div>
           <div className="pl-4">
-            <p>Phone Number: 500 222 0000</p>
+            <p>Tel: 500 222 0000</p>
           </div>
         </div>
         <div className="flex"></div>

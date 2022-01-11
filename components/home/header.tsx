@@ -42,7 +42,7 @@ export const Header = () => {
               <p className="text-xl text-gray-400 py-2">
                 Allah düşürmesin kimseyi bu yollara
               </p>
-              <button className="text-lg bg-yellow-700 text-gray-100 bg-opacity-80 hover:bg-opacity-100 w-32 py-2">
+              <button className="text-lg bg-yellow-700 rounded-sm text-gray-100 bg-opacity-80 hover:bg-opacity-100 w-32 py-2">
                 Bize yazın
               </button>
             </div>
